@@ -75,7 +75,7 @@
 	},
 	"resolutions": {
 		"acorn": "^8.15.0",
-		"ansi-regex": "^5.0.1",
+		"ansi-regex": "^6.3.0",
 		"minimist": "^1.2.8"
 	},
 	"prettier": "@sapphire/prettier-config",
