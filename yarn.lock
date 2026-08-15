@@ -148,25 +148,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/load@npm:>6.1.1":
-  version: 20.2.0
-  resolution: "@commitlint/load@npm:20.2.0"
-  dependencies:
-    "@commitlint/config-validator": "npm:^20.2.0"
-    "@commitlint/execute-rule": "npm:^20.0.0"
-    "@commitlint/resolve-extends": "npm:^20.2.0"
-    "@commitlint/types": "npm:^20.2.0"
-    chalk: "npm:^5.3.0"
-    cosmiconfig: "npm:^9.0.0"
-    cosmiconfig-typescript-loader: "npm:^6.1.0"
-    lodash.isplainobject: "npm:^4.0.6"
-    lodash.merge: "npm:^4.6.2"
-    lodash.uniq: "npm:^4.5.0"
-  checksum: 10/90285577381d593fbd2ee7fb825234f828378205374d26186577500bd160919efa01b1e584ad44190e57da9c151238063b8c896356bf9a7074e4a85a5a3e19b5
-  languageName: node
-  linkType: hard
-
-"@commitlint/load@npm:^20.3.0":
+"@commitlint/load@npm:>6.1.1, @commitlint/load@npm:^20.3.0":
   version: 20.3.0
   resolution: "@commitlint/load@npm:20.3.0"
   dependencies:
@@ -1697,10 +1679,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ansi-regex@npm:^5.0.1":
-  version: 5.0.1
-  resolution: "ansi-regex@npm:5.0.1"
-  checksum: 10/2aa4bb54caf2d622f1afdad09441695af2a83aa3fe8b8afa581d205e57ed4261c183c4d3877cee25794443fde5876417d859c108078ab788d6af7e4fe52eb66b
+"ansi-regex@npm:^6.3.0":
+  version: 6.3.0
+  resolution: "ansi-regex@npm:6.3.0"
+  checksum: 10/85e15deee80d6e52e75864897b6f7b8a8cfc5befe1868f03e3b6bf8925b9b667cf67d4aeafc6d038398f2f11c3813e7b40ad79affdd29a9c491b3585bfa125d5
   languageName: node
   linkType: hard
 
@@ -2400,14 +2382,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"discord-api-types@npm:^0.38.1, discord-api-types@npm:^0.38.16, discord-api-types@npm:^0.38.30, discord-api-types@npm:^0.38.31, discord-api-types@npm:^0.38.33":
-  version: 0.38.34
-  resolution: "discord-api-types@npm:0.38.34"
-  checksum: 10/7e62941c1a85d38563a5cfc3b81a15c30115cfda243d8ce66e9b273ec7f3418597827aab9c4541cb32843ed37fa083cc45a7ff28d3c776e5caf184a2e41626eb
-  languageName: node
-  linkType: hard
-
-"discord-api-types@npm:^0.38.37":
+"discord-api-types@npm:^0.38.1, discord-api-types@npm:^0.38.16, discord-api-types@npm:^0.38.30, discord-api-types@npm:^0.38.31, discord-api-types@npm:^0.38.33, discord-api-types@npm:^0.38.37":
   version: 0.38.37
   resolution: "discord-api-types@npm:0.38.37"
   checksum: 10/ea59b0e9e959e3f99760b2540be0b8388a1f6607821d5a27de2f9dd744959a6ad41ffb73f1ce8ea668748e4d133dea75dedd3a9027ce388e5a1b70f1c0b5d86b
